@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorTransparent">#00000000</color><!--透明色 -->
+    <color name="colorWhite">#FFFFFF</color><!--白色 -->
+    <color name="colorBlue">#4C507BD9</color>
+    <color name="colorLine">#FFDBDBDB</color>
+    <color name="colorBlackText">#FF494949</color>
+    <color name="colorCtrlFocus">#FFAACCFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorSeekbarBg">#88FFFFFF</color>
+    <color name="colorSeekbarProgress">#6b9bed</color>
+    <color name="colorShadow">#55000000</color>
+</resources>

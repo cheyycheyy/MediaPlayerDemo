@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="arr_weight_params">
+        <!--<item>体重：</item>-->
+        <!--<item>BMI：</item>-->
+        <!--<item>脂肪率：</item>-->
+        <item>皮下脂肪：</item>
+        <item>体水分：</item>
+        <item>身体年龄：</item>
+        <item>蛋白质：</item>
+        <item>内脏脂肪等级：</item>
+        <item>基本代谢：</item>
+        <item>肌肉率：</item>
+        <item>骨骼重量：</item>
+    </string-array>
+
+
+    <string-array name="arr_title_normal">
+        <item>社区服务</item>
+        <item>教育课堂</item>
+        <item>政务信息</item>
+        <item>智能家居</item>
+        <item>便民查询</item>
+        <item>便民超市</item>
+    </string-array>
+
+    <string-array name="arr_template_normal">
+        <item>MainCommunity</item>
+        <item>MainEducation </item>
+        <item>MainGovernmentAffairs</item>
+        <item>MainSmartHome</item>
+        <item>MainConvenientQuery</item>
+        <item>MainTVShopping</item>
+    </string-array>
+
+
+
+</resources>

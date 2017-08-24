@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 二级页面列表菜单id -->
+    <item name="sec_title_bar1" type="id"/>
+    <item name="sec_title_bar2" type="id"/>
+    <item name="sec_title_bar3" type="id"/>
+    <item name="sec_title_bar4" type="id"/>
+    <item name="sec_title_bar5" type="id"/>
+    <item name="sec_title_bar6" type="id"/>
+    <item name="sec_title_bar7" type="id"/>
+
+
+    <!--RTSPVideoActivity中两个Button的id-->
+    <item name="btn_door_confirm" type="id"/>
+    <item name="btn_door_cancel" type="id"/>
+</resources>
